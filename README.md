@@ -12,4 +12,5 @@ Send me a message on my discord if you have any issue with my programs: ``kp#334
 ![dog gif](./dog.gif "Pretty cute, huh")
 ---
 
-![GitHub Status](https://github-readme-stats.codestackr.vercel.app/api?username=pedrokpp&show_icons=true&hide_border=true)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=pedrokpp&count_private=true&theme=nightowl&show_icons=true)
+![MostUsedLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokpp&theme=nightowl&layout=compact&langs_count=8)
