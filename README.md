@@ -2,7 +2,7 @@
 
 - 🐻 go := "loving more than python"
 - 🤖 let javascript = "discord.js";
-- 📡 string cpp_and_cs = "still intermediate";
+- 📡 string csharp = "still intermediate";
 - 🐍 python = "not life anymore"
 
 Currently learning about game development with Unity, Godot and Golang.
