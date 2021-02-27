@@ -1,11 +1,11 @@
 ### Howdy 🙃
 
-- 🐍 python = "life"
+- 🐻 go := "loving more than python"
 - 🤖 let javascript = "discord.js";
 - 📡 string cpp_and_cs = "still intermediate";
-- 🐾 go := "also pretty cool"
+- 🐍 python = "not life anymore"
 
-Currently learning about game development with Unity and C# and ``<Windows.h>`` for C++.
+Currently learning about game development with Unity, Godot and Golang.
 
 Send me a message on my discord if you have any issue with my programs: ``kp#3343``
 
