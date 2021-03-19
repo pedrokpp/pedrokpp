@@ -2,10 +2,10 @@
 
 - 🐻 go := "loving more than python"
 - 🤖 let javascript = "discord.js";
-- 📡 string csharp = "still intermediate";
+- 📡 string cpp = "hard af";
 - 🐍 python = "not life anymore"
 
-Currently learning about game development with Unity, Godot and Golang.
+Currently trying to learn more about C++.
 
 Send me a message on my discord if you have any issue with my programs: ``kp#3343``
 
