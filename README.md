@@ -4,9 +4,9 @@
 
 #### Welcome to my world 
 
-💑 For some random reason, I fell in love with back end development
+💑 For some random reason I fell in love with back end development
 
-🎓 Currently learning more about C++ and some web developments frameworks
+🎓 Currently learning more about front end development in order to be a good full stack developer
 
 🎉 17 years old
 
@@ -16,10 +16,10 @@
 ## 🤯 Technologies I know at the moment
 
 <p align="left">
-  <img src="https://img.shields.io/badge/%20-Node.js-000000?style=flat-square&logo=Node.js" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-Node.js-000000?style=flat-square&logo=Node-dot-js" /> <br /> 
   <img src="https://img.shields.io/badge/%20-TypeScript-000000?style=flat-square&logo=TypeScript" /> <br />
   <img src="https://img.shields.io/badge/%20-React-000000?style=flat-square&logo=React" /> <br />
-  <img src="https://img.shields.io/badge/%20-Next.js-000000?style=flat-square&logo=Next.js" /> <br />
+  <img src="https://img.shields.io/badge/%20-Next.js-000000?style=flat-square&logo=Next-dot-js" /> <br />
   <img src="https://img.shields.io/badge/%20-Express-000000?style=flat-square&logo=Express" /> 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrokpp&count_private=true&theme=nightowl&show_icons=true" /> <br /> 
   <img src="https://img.shields.io/badge/%20-MongoDB-000000?style=flat-square&logo=MongoDB" /> <br />
@@ -36,5 +36,3 @@
   <img src="https://img.shields.io/badge/%20-Gradle-000000?style=flat-square&logo=Gradle" /> <br /> 
   <img src="https://img.shields.io/badge/%20-Git-000000?style=flat-square&logo=Git" /> <br />
 </p>
-
-<i>Unfortunately some icons disappeared and won't work :(</i>
