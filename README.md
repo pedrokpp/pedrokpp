@@ -16,10 +16,10 @@
 ## 🤯 Technologies I know at the moment
 
 <p align="left">
-  <img src="https://img.shields.io/badge/%20-Node.js-000000?style=flat-square&logo=Node-dot-js" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-Node.js-000000?style=flat-square&logo=Node.js" /> <br /> 
   <img src="https://img.shields.io/badge/%20-TypeScript-000000?style=flat-square&logo=TypeScript" /> <br />
   <img src="https://img.shields.io/badge/%20-React-000000?style=flat-square&logo=React" /> <br />
-  <img src="https://img.shields.io/badge/%20-Next.js-000000?style=flat-square&logo=Next-dot-js" /> <br />
+  <img src="https://img.shields.io/badge/%20-Next.js-000000?style=flat-square&logo=Next.js" /> <br />
   <img src="https://img.shields.io/badge/%20-Express-000000?style=flat-square&logo=Express" /> 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrokpp&count_private=true&theme=nightowl&show_icons=true" /> <br /> 
   <img src="https://img.shields.io/badge/%20-MongoDB-000000?style=flat-square&logo=MongoDB" /> <br />
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/%20-C++-000000?style=flat-square&logo=C%2B%2B" /> <br />
   <img src="https://img.shields.io/badge/%20-Unity-000000?style=flat-square&logo=Unity" /> <br /> 
   <img src="https://img.shields.io/badge/%20-Java-000000?style=flat-square&logo=Java" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-MySQL-000000?style=flat-square&logo=MySQL" /> <br /> 
   <img src="https://img.shields.io/badge/%20-Maven-000000?style=flat-square&logo=Apache%20Maven" /> <br /> 
   <img src="https://img.shields.io/badge/%20-Gradle-000000?style=flat-square&logo=Gradle" /> <br /> 
   <img src="https://img.shields.io/badge/%20-Git-000000?style=flat-square&logo=Git" /> <br />
