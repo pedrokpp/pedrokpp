@@ -1,6 +1,6 @@
 ## 🤠 Howdy
 
-<img align="right" src="./dog.gif">
+<img align="right" src="./nicoinvertidogif2.gif">
 
 #### Welcome to my world 
 
