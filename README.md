@@ -1,4 +1,4 @@
-##🤠 Howdy
+## 🤠 Howdy
 
 <img align="right" src="./dog.gif">
 
