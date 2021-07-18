@@ -16,7 +16,7 @@
 
 <br/>
 
-- 🤠🍻 Hit me up on [Discord](https://discord.com/users/286652790326034432) if you have any issue with something that I made: ``kp 🤠🥶#7460``
+- 🤠🍻 Hit me up on [Discord](https://discord.com/users/286652790326034432) if you have any issue with something that I made or just open an issue on its repository
 
 ## 🤯 Technologies I know at the moment
 <p align="left">
