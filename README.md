@@ -16,7 +16,7 @@
 
 <br/>
 
-- 🤠🍻 Hit me up on Discord if you have any issue with something that I made: ``kp 🤠🥶#7460``
+- 🤠🍻 Hit me up on (Discord)[https://discord.com/users/286652790326034432] if you have any issue with something that I made: ``kp 🤠🥶#7460``
 
 ## 🤯 Technologies I know at the moment
 <p align="left">
@@ -24,9 +24,9 @@
   <img src="https://img.shields.io/badge/%20-Express-000000?style=flat-square&logo=Express" /> <br /> 
   <img src="https://img.shields.io/badge/%20-Discord.js-000000?style=flat-square&logo=Discord" /> <br />
   <img src="https://img.shields.io/badge/%20-HTML5-000000?style=flat-square&logo=HTML5" /> <br /> 
-  <img src="https://img.shields.io/badge/%20-CSS3-000000?style=flat-square&logo=CSS3" /> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrokpp&count_private=true&theme=nightowl&show_icons=true" /> <br /> 
-  <img src="https://img.shields.io/badge/%20-Python-000000?style=flat-square&logo=Python" /> <br />
+  <img src="https://img.shields.io/badge/%20-CSS3-000000?style=flat-square&logo=CSS3" /> <br /> 
+  <img src="https://img.shields.io/badge/%20-Python-000000?style=flat-square&logo=Python" /> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pedrokpp&count_private=true&theme=nightowl&show_icons=true" /> <br />
   <img src="https://img.shields.io/badge/%20-Flask-000000?style=flat-square&logo=Flask" /> <br />
   <img src="https://img.shields.io/badge/%20-Golang-000000?style=flat-square&logo=Go" /> <br /> 
   <img src="https://img.shields.io/badge/%20-C++-000000?style=flat-square&logo=C%2B%2B" /> <br />
