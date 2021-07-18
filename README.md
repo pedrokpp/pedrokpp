@@ -1,4 +1,4 @@
-## 😉 Howdy
+##🤠 Howdy
 
 <img align="right" src="./dog.gif">
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-- 📝✍ 18 yo Computer Science student in Rio de Janeiro, Brazil
+- 📝✍ 18 years old guy that loves 'Sertanejo' and Computer Science
 
 <br/>
 
