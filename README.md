@@ -4,7 +4,7 @@
 
 #### Welcome to my world 
 
-- 💛☕ I used to have Java but now it is my favorite thing in the world
+- 💛☕ I used to hate Java but now it is my favorite thing in the world
 
 <br/>
 
