@@ -12,4 +12,4 @@ welcome to the world of a 18 yo dude that likes programming
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrokpp&count_private=true&theme=onedark&show_icons=true&hide_border=true" /> : <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokpp&layout=compact&theme=onedark&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrokpp&count_private=true&theme=onedark&show_icons=true&hide_border=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokpp&layout=compact&theme=onedark&hide_border=true">
