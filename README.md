@@ -3,7 +3,7 @@ $ neofetch
 
                ',                   kp@github
             .-`-,\__                ----------
-              ."`   `,              OS: Pop_OS 21.04 amd64
+              ."`   `,              OS: Pop!_OS 21.04 x86_64
             .'_.  ._  `;.           Languages: Python, C#, C++, Go, Node, Java
         __ / `      `  `.\ .--.     Discord: not kp#2876 
        /--,| 0)   0)     )`_.-,)    Terminal: /dev/pts/0
