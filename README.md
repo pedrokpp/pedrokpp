@@ -8,7 +8,7 @@ $ neofetch
         __ / `      `  `.\ .--.     Discord: not kp#2876 
        /--,| 0)   0)     )`_.-,)    Terminal: /dev/pts/0
       |    ;.-----.__ _-');   /     Studying: Computer Science
-       '--./         `.`/  `"`      Quote: i'm open to help new people, feel free to dm me if you need help with something
+       '--./         `.`/  `"`      Quote: i'm open to help new people, feel free to dm me if you need help
           :   '`      |.            
           | \     /  //              
            \ '---'  /'              
