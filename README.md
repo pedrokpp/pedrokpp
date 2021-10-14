@@ -5,7 +5,7 @@ $ neofetch
             .-`-,\__                ----------
               ."`   `,              OS: Pop!_OS 21.04 x86_64
             .'_.  ._  `;.           Languages: Python, C#, C++, Go, Node, Java
-        __ / `      `  `.\ .--.     Discord: not kp#2876 
+        __ / `      `  `.\ .--.     Discord: not kp#7435
        /--,| 0)   0)     )`_.-,)    Terminal: /dev/pts/0
       |    ;.-----.__ _-');   /     Studying: Computer Science
        '--./         `.`/  `"`      Quote: i'm open to help new people, feel free to dm me if you need help
