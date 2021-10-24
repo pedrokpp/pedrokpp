@@ -1,19 +1,19 @@
 ```zsh
 $ neofetch
 
-               ',                   kp@github
-            .-`-,\__                ----------
-              ."`   `,              OS: Pop!_OS 21.04 x86_64
-            .'_.  ._  `;.           Languages: Python, C#, C++, Go, Node, Java
-        __ / `      `  `.\ .--.     Discord: not kp#7435
-       /--,| 0)   0)     )`_.-,)    Terminal: /dev/pts/0
-      |    ;.-----.__ _-');   /     Studying: Computer Science
-       '--./         `.`/  `"`      Quote: i'm open to help new people, feel free to dm me if you need help
-          :   '`      |.            
-          | \     /  //              
-           \ '---'  /'              
-            `------' \              @Universidade Federal Fluminense 
-jgs/a:f      _/       `--...         ██████████████████████████████
+     (()__(()                  kp@github
+     /       \                 ----------
+    ( /    \  \                OS: Arch Linux && Win10
+     \ o o    /                Languages: Python, C#, C++, Go, Node, Java
+     (_()_)__/ \               Discord: not kp#7435
+    / _,==.____ \              Terminal: alacritty
+   (   |--|      )             WM: i3-gaps
+   /\_.|__|'-.__/\_            Studying: Computer Science
+  / (        /     \           Quote: if you have any issues with something you can message me
+  \  \      (      /              
+   )  '._____)    /           
+(((____.--(((____/ mrf         @Universidade Federal Fluminense 
+                                ------------------------------                            m <3
 ```
 
 <br>
