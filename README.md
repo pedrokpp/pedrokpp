@@ -10,10 +10,10 @@ $ neofetch
    (   |--|      )             WM: i3-gaps
    /\_.|__|'-.__/\_            Studying: Computer Science
   / (        /     \           Quote: if you have any issues with something you can message me
-  \  \      (      /              
+  \  \      (      /          
    )  '._____)    /           
 (((____.--(((____/ mrf         @Universidade Federal Fluminense 
-                                ------------------------------                            m <3
+        m <3                    ------------------------------
 ```
 
 <br>
