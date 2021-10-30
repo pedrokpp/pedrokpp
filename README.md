@@ -5,7 +5,7 @@ $ neofetch
      /       \                 ----------
     ( /    \  \                OS: Arch Linux && Win10
      \ o o    /                Languages: Python, C#, C++, Go, Node, Java
-     (_()_)__/ \               Discord: not kp#7435
+     (_()_)__/ \               Discord: kp#4075
     / _,==.____ \              Terminal: alacritty
    (   |--|      )             WM: i3-gaps
    /\_.|__|'-.__/\_            Studying: Computer Science
