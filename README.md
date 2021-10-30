@@ -12,10 +12,12 @@ $ neofetch
   / (        /     \           Quote: if you have any issues with something you can message me
   \  \      (      /          
    )  '._____)    /           
-(((____.--(((____/ mrf         @Universidade Federal Fluminense                                                        
+(((____.--(((____/ mrf         @Universidade Federal Fluminense                         
         m <3                    ------------------------------
 ```
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrokpp&count_private=true&theme=onedark&show_icons=false&hide_border=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokpp&layout=compact&langs_count=4&theme=onedark&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrokpp&count_private=true&theme=onedark&show_icons=false&hide_border=true" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokpp&layout=compact&langs_count=4&theme=onedark&hide_border=true">
