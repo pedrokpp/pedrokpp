@@ -18,6 +18,6 @@ $ neofetch
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrokpp&count_private=true&theme=onedark&show_icons=false&hide_border=true" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokpp&layout=compact&langs_count=8&theme=onedark&hide_border=true" /> </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokpp&layout=compact&langs_count=4&theme=onedark&hide_border=true">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pedrokpp&count_private=true&theme=onedark&show_icons=false&hide_border=true" /> </p>
