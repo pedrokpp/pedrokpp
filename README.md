@@ -12,7 +12,7 @@ $ neofetch
   / (        /     \           Quote: if you have any issues with something you can message me
   \  \      (      /          
    )  '._____)    /           
-(((____.--(((____/ mrf         @Universidade Federal Fluminense                                                          
+(((____.--(((____/ mrf         @Universidade Federal Fluminense                                                        
         m <3                    ------------------------------
 ```
 
