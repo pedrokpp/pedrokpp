@@ -3,7 +3,7 @@ $ neofetch
 
      (()__(()                  kp@github
      /       \                 ----------
-    ( /    \  \                OS: Arch Linux && Win10
+    ( /    \  \                OS: Arco Linux
      \ o o    /                Languages: Python, C#, C++, Go, Node, Java
      (_()_)__/ \               Discord: kp#4075
     / _,==.____ \              Terminal: alacritty
