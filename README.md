@@ -6,8 +6,8 @@ $ neofetch
     ( /    \  \                OS: Arch Linux
      \ o o    /                Languages: Python, C#, C++, Go, Node, Java
      (_()_)__/ \               Discord: kp#4075
-    / _,==.____ \              Terminal: alacritty
-   (   |--|      )             WM: i3-gaps
+    / _,==.____ \              Terminal: qterminal
+   (   |--|      )             WM: KDE Plasma
    /\_.|__|'-.__/\_            Studying: Computer Science
   / (        /     \           Quote: if you have any issues with something you can message me
   \  \      (      /          
