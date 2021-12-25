@@ -9,7 +9,7 @@ $ neofetch
     / _,==.____ \              Terminal: qterminal
    (   |--|      )             WM: KDE Plasma
    /\_.|__|'-.__/\_            Studying: Computer Science
-  / (        /     \           Quote: if you have any issues with something you can message me
+  / (        /     \           Quote: if you have any issues with something i did you can message me
   \  \      (      /          
    )  '._____)    /           
 (((____.--(((____/ mrf         @Universidade Federal Fluminense                         
