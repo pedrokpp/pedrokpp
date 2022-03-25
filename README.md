@@ -4,12 +4,12 @@ kp@archlinux ~ % neofetch
      (()__(()                  kp@github
      /       \                 ----------
     ( /    \  \                OS: Arch Linux x86_64
-     \ o o    /                Languages: Python, C#, C/C++, Rust, Golang, JS, Java
-     (_()_)__/ \               Discord: kp#4075
-    / _,==.____ \              Terminal: qterminal
-   (   |--|      )             Terminal Font: Hack 14
-   /\_.|__|'-.__/\_            DE: Plasma 5.24.3
-  / (        /     \           
+     \ o o    /                DE: Plasma 5.24.3
+     (_()_)__/ \               Terminal: qterminal
+    / _,==.____ \              Default text editor: nvim
+   (   |--|      )             Discord: kp#4075
+   /\_.|__|'-.__/\_            Telegram: @pedrokp
+  / (        /     \           Tech Stack: Python, C#, C/C++, Rust, Golang, Java, HTML/CSS/JS, Node, Svelte
   \  \      (      /          
    )  '._____)    /           
 (((____.--(((____/ mrf         @Universidade Federal Fluminense                         
