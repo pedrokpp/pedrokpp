@@ -7,7 +7,7 @@ $ neofetch
      \ o o    /                Languages: Python, C#, C++, Go, Node, Java
      (_()_)__/ \               Discord: kp#4075
     / _,==.____ \              Terminal: qterminal
-   (   |--|      )             WM: KDE Plasma
+   (   |--|      )             DE: KDE Plasma
    /\_.|__|'-.__/\_            Studying: Computer Science
   / (        /     \           Quote: if you have any issues with something i did you can message me
   \  \      (      /          
