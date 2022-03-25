@@ -3,13 +3,13 @@ $ neofetch
 
      (()__(()                  kp@github
      /       \                 ----------
-    ( /    \  \                OS: Arch Linux
-     \ o o    /                Languages: Python, C#, C++, Go, Node, Java
+    ( /    \  \                OS: Arch Linux x86_64
+     \ o o    /                Languages: Python, C#, C/C++, Rust, Golang, JS, Java
      (_()_)__/ \               Discord: kp#4075
     / _,==.____ \              Terminal: qterminal
-   (   |--|      )             DE: KDE Plasma
-   /\_.|__|'-.__/\_            Studying: Computer Science
-  / (        /     \           Quote: if you have any issues with something i did you can message me
+   (   |--|      )             Terminal Font: Hack 14
+   /\_.|__|'-.__/\_            DE: Plasma 5.24.3
+  / (        /     \           
   \  \      (      /          
    )  '._____)    /           
 (((____.--(((____/ mrf         @Universidade Federal Fluminense                         
