@@ -3,8 +3,8 @@ kp@archlinux ~ % neofetch
 
      (()__(()                  kp@github
      /       \                 ----------
-    ( /    \  \                OS: Arch Linux x86_64
-     \ o o    /                DE: Plasma 5.24.3
+    ( /    \  \                OS: Fedora Linux 35 x86_64 
+     \ o o    /                DE: Plasma 5.24.4
      (_()_)__/ \               Terminal: qterminal
     / _,==.____ \              Default text editor: nvim
    (   |--|      )             Discord: kp#4075
