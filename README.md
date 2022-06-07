@@ -9,7 +9,7 @@ kp@fedora ~ % neofetch
     / _,==.____ \              Default text editor: nvim
    (   |--|      )             Discord: kp#1337
    /\_.|__|'-.__/\_            Telegram: @pedrokp
-  / (        /     \           Tech Stack: Python, C#, C/C++, Rust, Golang, Java, HTML/CSS/JS, Node, Svelte
+  / (        /     \           Tech Stack: Python, C#, C/C++, Rust, Golang, Java, MERN, SQL
   \  \      (      /          
    )  '._____)    /           
 (((____.--(((____/ mrf         @Universidade Federal Fluminense                         
