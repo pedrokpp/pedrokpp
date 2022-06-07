@@ -1,9 +1,9 @@
 ```zsh
-kp@archlinux ~ % neofetch
+kp@fedora ~ % neofetch
 
      (()__(()                  kp@github
      /       \                 ----------
-    ( /    \  \                OS: Fedora Linux 35 x86_64 
+    ( /    \  \                OS: Fedora Linux 36 x86_64 
      \ o o    /                DE: Plasma 5.24.4
      (_()_)__/ \               Terminal: qterminal
     / _,==.____ \              Default text editor: nvim
