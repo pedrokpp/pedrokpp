@@ -3,10 +3,10 @@ kp@fedora ~ % neofetch
 
      (()__(()                  kp@github
      /       \                 ----------
-    ( /    \  \                OS: Fedora Linux 36 x86_64 
-     \ o o    /                DE: Plasma 5.24.4
-     (_()_)__/ \               Terminal: qterminal
-    / _,==.____ \              Default text editor: nvim
+    ( /    \  \                OS: Arch Linux x86_64
+     \ o o    /                WM: i3
+     (_()_)__/ \               Terminal: alacritty
+    / _,==.____ \              Editor: neovim
    (   |--|      )             Discord: kp#1337
    /\_.|__|'-.__/\_            Telegram: @pedrokp
   / (        /     \           Tech Stack: Python, C#, C/C++, Rust, Golang, Java, MERN, SQL, Firebase
