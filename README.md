@@ -3,14 +3,14 @@ kp@fedora ~ % neofetch
 
      (()__(()                  kp@github
      /       \                 ----------
-    ( /    \  \                OS: Arch Linux x86_64
-     \ o o    /                WM: i3
-     (_()_)__/ \               Terminal: alacritty
-    / _,==.____ \              Editor: neovim
-   (   |--|      )             Discord: kp#1337
-   /\_.|__|'-.__/\_            Telegram: @pedrokp
-  / (        /     \           Tech Stack: Python, C#, C/C++, Rust, Golang, Java, MERN, SQL, Firebase
-  \  \      (      /          
+    ( /    \  \                DE: GNOME
+     \ o o    /                Shell: zsh
+     (_()_)__/ \               Editor: nvim
+    / _,==.____ \              
+   (   |--|      )             
+   /\_.|__|'-.__/\_            
+  / (        /     \           Discord: kp1337
+  \  \      (      /           Telegram: @pedrokp
    )  '._____)    /           
 (((____.--(((____/ mrf         @Universidade Federal Fluminense                         
         m <3                    ------------------------------
