@@ -9,8 +9,8 @@ kp@fedora ~ % neofetch
     / _,==.____ \              
    (   |--|      )             
    /\_.|__|'-.__/\_            
-  / (        /     \           Discord: kp1337
-  \  \      (      /           Telegram: @pedrokp
+  / (        /     \           
+  \  \      (      /           
    )  '._____)    /           
 (((____.--(((____/ mrf         @Universidade Federal Fluminense                         
         m <3                    ------------------------------
