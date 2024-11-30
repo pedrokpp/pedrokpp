@@ -1,5 +1,5 @@
 ```zsh
-kp@fedora ~ % neofetch
+kp@archlinux ~ % neofetch
 
      (()__(()                  kp@github
      /       \                 ----------
