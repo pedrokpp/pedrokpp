@@ -3,7 +3,7 @@ kp@archlinux ~ % neofetch
 
      (()__(()                  kp@github
      /       \                 ----------
-    ( /    \  \                DE: GNOME
+    ( /    \  \                DE: KDE
      \ o o    /                Shell: zsh
      (_()_)__/ \               Editor: nvim
     / _,==.____ \              
