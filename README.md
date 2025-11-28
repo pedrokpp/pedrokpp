@@ -12,7 +12,7 @@ kp@archlinux ~ % neofetch
   / (        /     \           
   \  \      (      /           
    )  '._____)    /           
-(((____.--(((____/ mrf         @Universidade Federal Fluminense                         
+(((____.--(((____/ mrf                                  
         m <3                    ------------------------------
 ```
 <h3 align="center"><a href="https://app.gitbook.com/s/hSi6qqfjyqJ7TVex43WU/">Infosec writeups</a></h3>
