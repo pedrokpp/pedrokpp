@@ -1,9 +1,9 @@
 ```zsh
-kp@archlinux ~ % neofetch
+kp@omarchy ~ % neofetch
 
      (()__(()                  kp@github
      /       \                 ----------
-    ( /    \  \                DE: KDE
+    ( /    \  \                WM: hyprland
      \ o o    /                Shell: zsh
      (_()_)__/ \               Editor: nvim
     / _,==.____ \              
