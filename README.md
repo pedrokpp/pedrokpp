@@ -1,5 +1,6 @@
 ```zsh
-kp@omarchy ~ % neofetch
+kp@omarchy: ~
+$ neofetch
 
      (()__(()                  kp@github
      /       \                 ----------
