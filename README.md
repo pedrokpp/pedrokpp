@@ -4,7 +4,7 @@ $ fastfetch
 
      (()__(()                  kp@github
      /       \                 ----------
-    ( /    \  \                WM: i3
+    ( /    \  \                WM: KWin (Wayland)
      \ o o    /                Shell: zsh
      (_()_)__/ \               Editor: nvim
     / _,==.____ \              Terminal: kitty
