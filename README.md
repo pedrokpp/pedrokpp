@@ -16,4 +16,4 @@ $ fastfetch
 (((____.--(((____/ mrf                                  
         m <3
 ```
-<h3 align="center"><a href="https://app.gitbook.com/s/hSi6qqfjyqJ7TVex43WU/">Infosec writeups</a></h3>
+<h3 align="center"><a href="https://kpp.dev/writeups">Infosec writeups</a></h3>
