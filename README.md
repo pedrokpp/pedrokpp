@@ -11,7 +11,7 @@ $ fastfetch
    (   |--|      )                               
    /\_.|__|'-.__/\_            Locale: pt_BR.UTF-8
   / (        /     \           Interests: dev & infosec
-  \  \      (      /           AI: opencode & Claude
+  \  \      (      /           AI: opencode & codex
    )  '._____)    /           
 (((____.--(((____/ mrf                                  
         m <3
